@@ -12,3 +12,22 @@ Next To-Do:
 4. [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
 5. [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
 6. [https://pytorch.org/blog/quantization-in-practice/]
+
+AMD Docs:
+1. AMD Quark: [https://quar.docs.amd.com]
+2. AMD ROCm: [https://rocm.docs.amd.com/en/latest]
+
+Other Docs:
+1. PyTorch Quantization: [https://pytorch.org/docs/stable/quantization.html]
+2. intel/neural-compressor: [https://github.com/intel/neural-compressor/tree/master]
+3. huggingface/optimum-quanto: [https://github.com/huggingface/optimum-quanto]
+4. NVIDIA/TensorRT-Model-Optimizer: [https://github.com/NVIDIA/TensorRT-Model-Optimizer/]
+5. vllm-project/vllm: [https://github.com/vllm-project/vllm]
+
+Research blogs in similar areas:
+- HF blog
+- PyTorch blog
+- PyTorch dev forum
+- NVIDIA blog
+- AI research from Intel
+- AI research from Qualcomm
