@@ -1,4 +1,5 @@
 Coding samples from HuggingFace quantization courses.
+
 Finished Courses:
 1. _HF Quantization Fundamentals_: [https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/]
 
