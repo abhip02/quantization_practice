@@ -3,6 +3,7 @@ Coding samples from HuggingFace quantization courses.
 Finished Courses:
 1. _HF Quantization Fundamentals_: [https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/]
 - Basic quantization techniques in PyTorch
+- PyTorch types (int8, float, bfloat16...) --> review these
 - using "quanto"
 
 In-Progress:
