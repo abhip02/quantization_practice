@@ -12,6 +12,7 @@ In-Progress:
 - Asymmetric Linear: r = s(q - z); q = int(round(r/s + z))
     - trade-off: more complex, memory to save zero point: but better use of quantization range
 - Symmetric Linear: q = int(round(r/s)); s = rmax/qmax (no zero point)
+- Per-channel, per-group options
 
 Next To-Do:
 1. [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-1-8d0c1bf8b679]
