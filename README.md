@@ -2,9 +2,13 @@ Coding samples from HuggingFace quantization courses.
 
 Finished Courses:
 1. _HF Quantization Fundamentals_: [https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/]
+- Basic quantization techniques in PyTorch
+- PyTorch types (int8, float, bfloat16...) --> review these
+- using "quanto"
 
 In-Progress:
 1. _HF Quantization in Depth_: [https://www.deeplearning.ai/short-courses/quantization-in-depth/]
+- Linear quantization: r = s(q - z); q = int(round(r/s + z))
 
 Next To-Do:
 1. [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-1-8d0c1bf8b679]
