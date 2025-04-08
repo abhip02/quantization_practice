@@ -31,7 +31,7 @@ Finished Courses:
 Next to go through:
 
 AMD Docs:
-1. AMD Quark: [https://quar.docs.amd.com]
+1. AMD Quark: [https://quark.docs.amd.com]
 2. AMD ROCm: [https://rocm.docs.amd.com/en/latest]
 
 Other Docs:
