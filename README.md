@@ -6,13 +6,20 @@ Finished Courses:
 - PyTorch types (int8, float, bfloat16...) --> review these
 - using "quanto"
 
-In-Progress:
-1. _HF Quantization in Depth_: [https://www.deeplearning.ai/short-courses/quantization-in-depth/]
+2. _HF Quantization in Depth_: [https://www.deeplearning.ai/short-courses/quantization-in-depth/]
 - Linear quantization
 - Asymmetric Linear: r = s(q - z); q = int(round(r/s + z))
     - trade-off: more complex, memory to save zero point: but better use of quantization range
 - Symmetric Linear: q = int(round(r/s)); s = rmax/qmax (no zero point)
 - Per-channel, per-group options
+- Building 8-bit quantizer (8W16A)
+- Replace PyTorch linear layers with quantized layer
+- Quantizing open-source models
+- Weights packing algorithm
+
+
+In-Progress:
+
 
 Next To-Do:
 1. [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-1-8d0c1bf8b679]
