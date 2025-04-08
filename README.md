@@ -24,13 +24,10 @@ Finished Courses:
 - [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-4-ae521e8a00ae]
 - [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-5-204883da375f]
 
-
-In-Progress:
-
+- [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
 
 
 Next To-Do:
-- [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
 - [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
 - [https://pytorch.org/blog/quantization-in-practice/]
 
