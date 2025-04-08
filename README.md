@@ -28,10 +28,11 @@ Finished Courses:
 In-Progress:
 
 
+
 Next To-Do:
-4. [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
-5. [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
-6. [https://pytorch.org/blog/quantization-in-practice/]
+- [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
+- [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
+- [https://pytorch.org/blog/quantization-in-practice/]
 
 AMD Docs:
 1. AMD Quark: [https://quar.docs.amd.com]
