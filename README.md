@@ -24,13 +24,11 @@ Finished Courses:
 - [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-4-ae521e8a00ae]
 - [https://medium.com/@sayedebad.777/the-power-of-quantization-in-ml-a-pytorch-tutorial-part-5-204883da375f]
 
-Intel neural compressor:
-- [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
+- Intel neural compressor: [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
+- HF Chart: [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
+- PyTorch Basics (Review): [https://pytorch.org/blog/quantization-in-practice/]
 
-
-Next To-Do:
-- [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
-- [https://pytorch.org/blog/quantization-in-practice/]
+Next to go through:
 
 AMD Docs:
 1. AMD Quark: [https://quar.docs.amd.com]
