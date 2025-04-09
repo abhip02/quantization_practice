@@ -27,6 +27,7 @@ Finished Courses:
 - Intel neural compressor: [https://github.com/intel/neural-compressor/blob/master/docs/source/quantization.md]
 - HF Chart: [https://huggingface.co/docs/transformers/v4.45.2/quantization/overview]
 - PyTorch Basics (Review): [https://pytorch.org/blog/quantization-in-practice/]
+- GPTQ: [https://arxiv.org/abs/2210.17323]
 
 Next to go through:
 
