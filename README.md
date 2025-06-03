@@ -1,5 +1,8 @@
 Learning about quantization. Coding samples from HuggingFace quantization courses.
 
+SOTA Papers:
+- https://github.com/Zhen-Dong/Awesome-Quantization-Papers
+
 Finished Courses:
 1. _HF Quantization Fundamentals_: [https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/]
 - Basic quantization techniques in PyTorch
